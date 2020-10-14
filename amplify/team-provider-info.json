@@ -10,13 +10,6 @@
       "StackName": "amplify-grudges-dev-105737",
       "StackId": "arn:aws:cloudformation:us-east-1:790151409571:stack/amplify-grudges-dev-105737/9b8b0ab0-0e2d-11eb-a259-0ac49251e793",
       "AmplifyAppId": "d37stckynsajxb"
-    },
-    "categories": {
-      "auth": {
-        "grudges583a6606": {},
-        "grudgesc5072a89": {},
-        "grudgesa11eed37": {}
-      }
     }
   }
 }
