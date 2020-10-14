@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "grudger41e61545": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

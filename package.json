@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/ui-react": "^0.2.23",
+    "aws-amplify": "^3.3.3",
     "lodash": "^4.17.10",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-scripts": "1.1.4"
   },
   "scripts": {
@@ -14,5 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/lodash": "^4.14.162"
+  }
 }

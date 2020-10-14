@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-grudger-dev-151044-authRole",
+      "UnauthRoleArn": "arn:aws:iam::790151409571:role/amplify-grudger-dev-151044-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::790151409571:role/amplify-grudger-dev-151044-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-grudger-dev-151044-deployment",
+      "UnauthRoleName": "amplify-grudger-dev-151044-unauthRole",
+      "StackName": "amplify-grudger-dev-151044",
+      "StackId": "arn:aws:cloudformation:us-east-1:790151409571:stack/amplify-grudger-dev-151044/f55d0a20-0e50-11eb-b39a-0a6865628217",
+      "AmplifyAppId": "d37stckynsajxb"
+    },
+    "categories": {
+      "auth": {
+        "grudger41e61545": {}
+      }
+    }
+  }
+}
