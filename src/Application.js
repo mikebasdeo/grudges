@@ -3,6 +3,8 @@ import NewGrudge from './NewGrudge'
 import Grudges from './Grudges'
 import './Application.css'
 
+
+
 // import { withAuthenticator } from '@aws-amplify/ui-react'
 import { withAuthenticator } from "aws-amplify-react";
 
